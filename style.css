@@ -1,0 +1,23 @@
+#chatbox {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    height: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  #chatlogs {
+    height: 350px;
+    padding: 10px;
+    overflow-y: scroll;
+  }
+  
+  #chatInput {
+    width: 100%;
+    padding: 10px;
+    border: none;
+  }
+  
